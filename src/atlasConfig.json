@@ -1,0 +1,9 @@
+{
+    "appId": "application-0-uadxm",
+    "appUrl": "https://realm.mongodb.com/groups/64e5603568dbbe3d37b2df2b/apps/64e62e6b39fc21ea0a5f9f4a",
+    "baseUrl": "https://realm.mongodb.com",
+    "clientApiBaseUrl": "https://us-east-1.aws.realm.mongodb.com",
+    "dataApiBaseUrl": "https://us-east-1.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/64e5603568dbbe3d37b2df2b/explorer/holb-api/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
