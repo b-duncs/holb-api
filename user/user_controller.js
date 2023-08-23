@@ -1,10 +1,11 @@
+// user_controller.js
 const express = require('express');
 const app = express();
 const router = express.Router();
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
-const User = require('./user');
+const User = require('./User');
 
 // CREATES A NEW USER
 router.post('/', (req, res) => {
